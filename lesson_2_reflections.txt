@@ -7,3 +7,5 @@ How can you use the staging area to make sure you have one commit per logical ch
 Lesson 2 Branching:
 
 I believe this is simple, but complicated.
+
+How do the diagrams help you visualize the branch structure?
